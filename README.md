@@ -12,4 +12,4 @@ TODO:
 - add command line parameters
 - make the terminal compatible at least with arrow keys, select types, vi shortcuts, ...
 - add other terminal files for OS compatibility
-- add another learning algorithms
+- add other learning algorithms
